@@ -17,7 +17,7 @@
         <Item Amount="0.24" TypeId="Ingot" SubtypeId="Nickel" />
         <Item Amount="0.4" TypeId="Ingot" SubtypeId="Silicon" />
         <Item Amount="0.1" TypeId="Ingot" SubtypeId="Magnesium" />
-        <Item Amount="0.1" TypeId="Ingot" SubtypeId="Cobalt" />
+        <Item Amount="0.05" TypeId="Ingot" SubtypeId="Cobalt" />
       </Results>
       <Priority>1000</Priority>
       <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
